@@ -1,0 +1,5 @@
+{
+  "name": "Medical Report Analyzer",
+  "description": "A tool to process medical appointment reports, generate status pivot tables, and cross-reference specialist data.",
+  "requestFramePermissions": []
+}
